@@ -1,1 +1,1 @@
-BootStrap mock project.
+bootstrap mock project: tinder for dogs.
