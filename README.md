@@ -3,5 +3,5 @@
 
 ## match finding site for your dogs
 
-#### Launch: https://singla-s.github.io/tindog
+#### Launch: [TinDog](https://undefin-ed.github.io/Tin-Dog/)
 
