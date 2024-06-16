@@ -3,5 +3,5 @@
 
 ## Find Match For your Dog
 
-#### Launch: [TinDog](https://skrypterx.github.io/Tin-Dog/)
+#### Launch: [TinDog](https://skryptx.github.io/Tin-Dog/)
 
